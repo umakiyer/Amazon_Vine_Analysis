@@ -7,15 +7,15 @@ Analyse the amazon vine program dataset, perform ETL (extract, transform & load)
 Data Source : Amazon Review Dataset, US Software review dataset.
 
 ## Perform ETL on Amazon Product Reviews:
-* Created new database in Amazon RDS server & ran the query to create tables.
+* Created new database in Amazon RDS server & ran the query to create tables in pgAdmin.
 
 ### The customers_table DataFrame
-* using groupby function on customer_id created customer table dataframe:
+* Using groupby function on customer_id created customer table dataframe:
 
     ![image](./IMAGES/customer_df.PNG) 
 
 ### The products_table DataFrame:
-* Created product_id dataframe form the Amazon dataset.
+* Created product_id dataframe from the Amazon dataset.
 
     ![image](./IMAGES/product_id_df.PNG)
 
