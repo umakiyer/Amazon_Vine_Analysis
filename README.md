@@ -1,10 +1,10 @@
 # Amazon Vine Analysis
 
-## Resources: 
-Data Source : Amazon Review Dataset, US Software review dataset
-
 ## Overview of the analysis
 Analyse the amazon vine program dataset, perform ETL (extract, transform & load) on the dataset, connect to AWS RDS instance & load the transformed data to pgAdmin.
+
+## Resources: 
+Data Source : Amazon Review Dataset, US Software review dataset.
 
 ## Perform ETL on Amazon Product Reviews:
 * Created new database in Amazon RDS server & ran the query to create tables.
